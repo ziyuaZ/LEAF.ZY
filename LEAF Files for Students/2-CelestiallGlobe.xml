@@ -20,7 +20,7 @@
 		<body>
 			<pb facs="https://raw.githubusercontent.com/kmabennett/LEAF/refs/heads/main/2-BriefDesc-Celestial-Ort-1.jpg"/>
 			<div>
-				<head>Replace with your title.</head>
+				<head><orgName cert="high">A brief description</orgName></head><head/>
 				<p>Replace with your text.</p></div>
 		</body>
 	</text>
