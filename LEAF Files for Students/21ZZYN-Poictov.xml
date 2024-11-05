@@ -207,6 +207,7 @@
 	"id": "https://raw.githubusercontent.com/ziyuaZ/LEAF.ZY/main/LEAF%20Files%20for%20Students/21ZZYN-Poictov.xml?rs_annotation_20241105160109861",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T21:01:09.861Z",
+	"dcterms:modified": "2024-11-05T21:12:10.241Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ziyuaZ",
 		"@type": [
@@ -549,7 +550,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/ziyuaZ/LEAF.ZY/main/LEAF%20Files%20for%20Students/21ZZYN-Poictov.xml?rs_annotation_20241105155813585#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[2]/rs[7]"
+			"rdf:value": "TEI/text/body/div/p[2]/rs[5]"
 		}
 	},
 	"oa:hasBody": {
@@ -866,7 +867,8 @@
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/ziyuaZ/LEAF.ZY/main/LEAF%20Files%20for%20Students/21ZZYN-Poictov.xml?rs_annotation_20241105160833173#Selector",
-			"@type": "oa:XPathSelector"
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[2]/rs[7]"
 		}
 	},
 	"oa:hasBody": {
@@ -889,8 +891,17 @@
 		<body>
 			<pb facs="Poictov"/>
 			<div>
-				<head>波伊科托夫。</head>
-				<p>这个省份 [<placeName key="Poitou" ref="http://www.wikidata.org/entity/Q954076" cert="high">普瓦图<precision match="@ref" precision="high"/></placeName>] ，拉丁语中称为 [Piclanis]，分为两个部分，即 [ 上部 ] 和 [ 下部 ]。上部 [ 普瓦图 ] 向东延伸至陶尔斯和贝里地区，下部 [ 普瓦图 ] 向西延伸至海洋。</p><p>      这里盛产玉米<rs key="Corne" ref="https://www.oed.com/dictionary/corn_n1?tab=meaning_and_use#8159660" type="Plant">，</rs>牲畜丰富<rs key="cattle" ref="http://www.wikidata.org/entity/Q830" cert="high" type="Animal">，</rs>鱼类<rs key="wynes" ref="https://www.oed.com/dictionary/wine_n1?tab=meaning_and_use#14588852" cert="medium" type="Drink">丰富</rs><rs key="furniſhed" ref="https://www.oed.com/dictionary/furnish_v?tab=meaning_and_use#3322241" cert="high" type="Object">，</rs><rs key="wyld beaſtes" ref="https://www.oed.com/dictionary/wild-beast_n?tab=meaning_and_use#14478516100" cert="high" type="Animal">野生动物</rs><rs key="fish" ref="http://www.wikidata.org/entity/Q152" cert="high" type="Animal">和水禽</rs>数量<rs key="ſtore" ref="https://www.oed.com/dictionary/store_v?tab=meaning_and_use#20436991" type="Object">众多</rs>，因此狩猎和捕鱼的乐趣在这里十分流行。<rs key="fish" ref="http://www.wikidata.org/entity/Q152" cert="high" type="Animal"/><rs key="wyld beaſtes" ref="https://www.oed.com/dictionary/wild-beast_n?tab=meaning_and_use#14478516100" cert="high" type="Animal"/></p><p>这个省的首府城市叫做 [Poititrt]，有着著名的名胜古迹，主要以研究民事法律而闻名，这座城市有着伟大的 [古迹]，从那里至今仍保留的 [剧院]、[渡槽] 和 [纪念碑] 可以看出。</p></div>
+				<head>P O I C T O V .</head>
+				<p>THis prouince of [<placeName key="Poitou" ref="http://www.wikidata.org/entity/Q954076" cert="high">Poitou<precision match="@ref" precision="high"/></placeName>], called in Latin [Piclanis] is detryded into two 
+partes, to wit the [Superior] &amp; [Inferior]. The vpper [Poitou] is that which 
+ſtretcheth eaſt-ward towards the countries of Towrs &amp; Berry, the nether 
+[Poitou] is that parte which weſtward extendeth it ſelf to the Ocean ſea.</p><p>      It is a country frutefull in <rs key="Corne" ref="https://www.oed.com/dictionary/corn_n1?tab=meaning_and_use#8159660" type="Plant">Corne</rs> &amp; <rs key="cattle" ref="http://www.wikidata.org/entity/Q830" cert="high" type="Animal">Cattle</rs> rich in <rs key="wynes" ref="https://www.oed.com/dictionary/wine_n1?tab=meaning_and_use#14588852" cert="medium" type="Drink">wynes</rs> &amp; <rs key="furniſhed" ref="https://www.oed.com/dictionary/furnish_v?tab=meaning_and_use#3322241" cert="high" type="Object">furniſhed</rs> with 
+great <rs key="ſtore" ref="https://www.oed.com/dictionary/store_v?tab=meaning_and_use#20436991" type="Object">ſtore</rs> of <rs key="fish" ref="http://www.wikidata.org/entity/Q152" cert="high" type="Animal">fiſh</rs>, And the great aboundance of <rs key="wyld beaſtes" ref="https://www.oed.com/dictionary/wild-beast_n?tab=meaning_and_use#14478516100" cert="high" type="Animal">wyld beaſtes</rs> &amp; fowle, 
+doth cauſe the delightfull fportes of hunting &amp; hauking to bee here much 
+vſed.</p><p>The chief citie of this prouince is called [Poititrt], having a notable vni-
+uerſitie chiefly for ſtudy of the Ciuil law, this citie is of great [antiquirie] 
+as appeereth by the [Theatre], [Aquaduct], &amp; [monuments], which are there yet
+remaining.</p></div>
 		</body>
 	</text>
 </TEI>
