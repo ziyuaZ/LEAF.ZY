@@ -74,7 +74,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/ziyuaZ/LEAF.ZY/main/LEAF%20Files%20for%20Students/21-Poictov.xml?place_annotation_20241105151224903#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/placeName"
+			"rdf:value": "TEI/text/body/div/p/placeName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -91,16 +91,97 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/ziyuaZ/LEAF.ZY/main/LEAF%20Files%20for%20Students/21-Poictov.xml?place_annotation_20241105151555441",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-11-05T20:15:55.441Z",
+	"dcterms:modified": "2024-11-05T20:15:55.441Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ziyuaZ",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Ziyuan Zhang"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ziyuaZ/LEAF.ZY/main/LEAF%20Files%20for%20Students/21-Poictov.xml?place_annotation_20241105151555441#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ziyuaZ/LEAF.ZY/main/LEAF%20Files%20for%20Students/21-Poictov.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ziyuaZ/LEAF.ZY/main/LEAF%20Files%20for%20Students/21-Poictov.xml?place_annotation_20241105151555441#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q954076",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high",
+	"cwrc:hasPrecision": "cwrc:highCertainty"
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
 	<text>
 		<body>
 			<pb facs="Poictov"/>
 			<div>
 				<head>P O I C T O V .</head>
-				<p>THis prouince of [Poitou], called in Latin [Piclanis] is detryded into two 
+				<p>THis prouince of [<placeName key="Poitou" ref="http://www.wikidata.org/entity/Q954076" cert="high">Poitou<precision match="@ref" precision="high"/></placeName>], called in Latin [Piclanis] is detryded into two 
 partes, to wit the [Superior] &amp; [Inferior]. The vpper [Poitou] is that which 
 ſtretcheth eaſt-ward towards the countries of Towrs &amp; Berry, the nether 
-[Poitou] is that parte which weſtward extendeth it ſelf to the Ocean ſea.<placeName key="Poitou" ref="http://www.wikidata.org/entity/Q954076"/></p><p>      It is a country frutefull in [Corne] &amp; [Cattle] rich in wynes &amp; furniſhed with 
+[Poitou] is that parte which weſtward extendeth it ſelf to the Ocean ſea.<placeName key="Poitou" ref="http://www.wikidata.org/entity/Q954076"></placeName></p><p>      It is a country frutefull in [Corne] &amp; [Cattle] rich in wynes &amp; furniſhed with 
 great ſtore of fiſh, And the great aboundance of wyld beaſtes &amp; fowle, 
 doth cauſe the delightfull fportes of hunting &amp; hauking to bee here much 
 vſed.
