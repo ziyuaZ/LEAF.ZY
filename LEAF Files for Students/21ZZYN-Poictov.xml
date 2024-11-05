@@ -207,7 +207,7 @@
 	"id": "https://raw.githubusercontent.com/ziyuaZ/LEAF.ZY/main/LEAF%20Files%20for%20Students/21ZZYN-Poictov.xml?rs_annotation_20241105154307722",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:43:07.722Z",
-	"dcterms:modified": "2024-11-05T20:43:07.722Z",
+	"dcterms:modified": "2024-11-05T21:01:09.861Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ziyuaZ",
 		"@type": [
@@ -238,7 +238,7 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "Object",
+		"@type": "Plant",
 		"@id": "https://www.oed.com/dictionary/corn_n1?tab=meaning_and_use#8159660",
 		"dc:format": "text/plain"
 	},
@@ -817,7 +817,7 @@
 				<p>THis prouince of [<placeName key="Poitou" ref="http://www.wikidata.org/entity/Q954076" cert="high">Poitou<precision match="@ref" precision="high"/></placeName>], called in Latin [Piclanis] is detryded into two 
 partes, to wit the [Superior] &amp; [Inferior]. The vpper [Poitou] is that which 
 ſtretcheth eaſt-ward towards the countries of Towrs &amp; Berry, the nether 
-[Poitou] is that parte which weſtward extendeth it ſelf to the Ocean ſea.</p><p>      It is a country frutefull in [<rs key="Corne" ref="https://www.oed.com/dictionary/corn_n1?tab=meaning_and_use#8159660" type="Object">Corne</rs>] &amp; [<rs key="cattle" ref="http://www.wikidata.org/entity/Q830" cert="high" type="Object">Cattle</rs>] rich in wynes &amp; <rs key="furniſhed" ref="https://www.oed.com/dictionary/furnish_v?tab=meaning_and_use#3322241" cert="high" type="Object">furniſhed</rs> with 
+[Poitou] is that parte which weſtward extendeth it ſelf to the Ocean ſea.</p><p>      It is a country frutefull in [<rs key="Corne" ref="https://www.oed.com/dictionary/corn_n1?tab=meaning_and_use#8159660" type="Plant">Corne</rs>] &amp; [<rs key="cattle" ref="http://www.wikidata.org/entity/Q830" cert="high" type="Object">Cattle</rs>] rich in wynes &amp; <rs key="furniſhed" ref="https://www.oed.com/dictionary/furnish_v?tab=meaning_and_use#3322241" cert="high" type="Object">furniſhed</rs> with 
 great <rs key="ſtore" ref="https://www.oed.com/dictionary/store_v?tab=meaning_and_use#20436991" type="Object">ſtore</rs> of <rs key="fish" ref="http://www.wikidata.org/entity/Q152" cert="high" type="Animal">fiſh</rs>, And the great aboundance of wyld beaſtes &amp; fowle, 
 doth cauſe the delightfull fportes of hunting &amp; hauking to bee here much 
 vſed.</p><p>The chief citie of this prouince is called [Poititrt], having a notable vni-
