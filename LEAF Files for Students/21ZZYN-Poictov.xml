@@ -886,6 +886,86 @@
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/ziyuaZ/LEAF.ZY/main/LEAF%20Files%20for%20Students/21ZZYN-Poictov.xml?rs_annotation_20241105161400960",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-11-05T21:14:00.960Z",
+	"dcterms:modified": "2024-11-05T21:14:00.960Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ziyuaZ",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Ziyuan Zhang"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ziyuaZ/LEAF.ZY/main/LEAF%20Files%20for%20Students/21ZZYN-Poictov.xml?rs_annotation_20241105161400960#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ziyuaZ/LEAF.ZY/main/LEAF%20Files%20for%20Students/21ZZYN-Poictov.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ziyuaZ/LEAF.ZY/main/LEAF%20Files%20for%20Students/21ZZYN-Poictov.xml?rs_annotation_20241105161400960#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[2]/rs[8]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "Animal",
+		"@id": "https://www.oed.com/dictionary/fowl_n?tab=meaning_and_use#3614500",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	},
+	"cwrc:hasCertainty": "cwrc:medium"
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
 	<text>
 		<body>
@@ -896,7 +976,7 @@
 partes, to wit the [Superior] &amp; [Inferior]. The vpper [Poitou] is that which 
 ſtretcheth eaſt-ward towards the countries of Towrs &amp; Berry, the nether 
 [Poitou] is that parte which weſtward extendeth it ſelf to the Ocean ſea.</p><p>      It is a country frutefull in <rs key="Corne" ref="https://www.oed.com/dictionary/corn_n1?tab=meaning_and_use#8159660" type="Plant">Corne</rs> &amp; <rs key="cattle" ref="http://www.wikidata.org/entity/Q830" cert="high" type="Animal">Cattle</rs> rich in <rs key="wynes" ref="https://www.oed.com/dictionary/wine_n1?tab=meaning_and_use#14588852" cert="medium" type="Drink">wynes</rs> &amp; <rs key="furniſhed" ref="https://www.oed.com/dictionary/furnish_v?tab=meaning_and_use#3322241" cert="high" type="Object">furniſhed</rs> with 
-great <rs key="ſtore" ref="https://www.oed.com/dictionary/store_v?tab=meaning_and_use#20436991" type="Object">ſtore</rs> of <rs key="fish" ref="http://www.wikidata.org/entity/Q152" cert="high" type="Animal">fiſh</rs>, And the great aboundance of <rs key="wyld beaſtes" ref="https://www.oed.com/dictionary/wild-beast_n?tab=meaning_and_use#14478516100" cert="high" type="Animal">wyld beaſtes</rs> &amp; fowle, 
+great <rs key="ſtore" ref="https://www.oed.com/dictionary/store_v?tab=meaning_and_use#20436991" type="Object">ſtore</rs> of <rs key="fish" ref="http://www.wikidata.org/entity/Q152" cert="high" type="Animal">fiſh</rs>, And the great aboundance of <rs key="wyld beaſtes" ref="https://www.oed.com/dictionary/wild-beast_n?tab=meaning_and_use#14478516100" cert="high" type="Animal">wyld beaſtes</rs> &amp; <rs key="fowle" ref="https://www.oed.com/dictionary/fowl_n?tab=meaning_and_use#3614500" cert="medium" type="Animal">fowle</rs>, 
 doth cauſe the delightfull fportes of hunting &amp; hauking to bee here much 
 vſed.</p><p>The chief citie of this prouince is called [Poititrt], having a notable vni-
 uerſitie chiefly for ſtudy of the Ciuil law, this citie is of great [antiquirie] 
