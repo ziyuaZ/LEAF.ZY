@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Sample Document Title</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc sameAs="http://www.cwrc.ca">
+				<p>Created from original research by members of CWRC/CSÉC unless
+					otherwise noted.</p>
+			</sourceDesc>
+		</fileDesc>
+		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
+	<text>
+		<body>
+			<pb facs="Poictov"/>
+			<div>
+				<head>P O I C T O V .</head>
+				<p>THis prouince of [Poitou], called in Latin [Piclanis] is detryded into two 
+partes, to wit the [Superior] &amp; [Inferior]. The vpper [Poitou] is that which 
+ſtretcheth eaſt-ward towards the countries of Towrs &amp; Berry, the nether 
+[Poitou] is that parte which weſtward extendeth it ſelf to the Ocean ſea.
+</p><p>      It is a country frutefull in [Corne] &amp; [Cattle] rich in wynes &amp; furniſhed with 
+great ſtore of fiſh, And the great aboundance of wyld beaſtes &amp; fowle, 
+doth cauſe the delightfull fportes of hunting &amp; hauking to bee here much 
+vſed.
+</p><p>       The chief citie of this prouince is called [Poititrt], having a notable vni-
+uerſitie chiefly for ſtudy of the Ciuil law, this citie is of great [antiquirie] 
+as appeereth by the [Theatre], [Aquaduct], &amp; [monuments], which are there yet
+remaining.
+</p></div>
+		</body>
+	</text>
+</TEI>
