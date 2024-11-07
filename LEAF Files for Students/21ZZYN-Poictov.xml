@@ -1283,6 +1283,86 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/ziyuaZ/LEAF.ZY/main/LEAF%20Files%20for%20Students/21ZZYN-Poictov.xml?rs_annotation_20241107150152352",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-11-07T20:01:52.352Z",
+	"dcterms:modified": "2024-11-07T20:01:52.352Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ziyuaZ",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Ziyuan Zhang"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ziyuaZ/LEAF.ZY/main/LEAF%20Files%20for%20Students/21ZZYN-Poictov.xml?rs_annotation_20241107150152352#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ziyuaZ/LEAF.ZY/main/LEAF%20Files%20for%20Students/21ZZYN-Poictov.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ziyuaZ/LEAF.ZY/main/LEAF%20Files%20for%20Students/21ZZYN-Poictov.xml?rs_annotation_20241107150152352#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[3]/rs"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "Architecture",
+		"@id": "https://www.oed.com/dictionary/theatre_n?tab=meaning_and_use#18786848",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
 	<text>
 		<body>
@@ -1302,7 +1382,7 @@ doth cauſe the delightfull fportes of hunting &amp; hauking to bee here much
 vſed.</p><p>The chief citie of this prouince is called <placeName key="Poitiers" ref="http://dbpedia.org/resource/Poitiers" cert="high">Poititrt<precision match="@ref" precision="high"/></placeName>, having a notable vni-
 uerſitie chiefly for ſtudy of the Ciuil law, this citie is of great antiquirie<note type="researchNote">Old English Spelling of "Antique".
 
-OED dictionary: https://www.oed.com/dictionary/antique_adj?tab=meaning_and_use#1540614</note> as appeereth by the [Theatre], [Aquaduct], &amp; [monuments], which are there yet
+OED dictionary: https://www.oed.com/dictionary/antique_adj?tab=meaning_and_use#1540614</note> as appeereth by the <rs key="Theatre" ref="https://www.oed.com/dictionary/theatre_n?tab=meaning_and_use#18786848" cert="high" type="Architecture">Theatre</rs>, [Aquaduct], &amp; [monuments], which are there yet
 remaining.</p></div>
 		</body>
 	</text>
