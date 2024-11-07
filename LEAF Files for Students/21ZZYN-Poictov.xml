@@ -47,6 +47,7 @@
 	"id": "https://raw.githubusercontent.com/ziyuaZ/LEAF.ZY/main/LEAF%20Files%20for%20Students/21ZZYN-Poictov.xml?place_annotation_20241105151555441",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:15:55.441Z",
+	"dcterms:modified": "2024-11-05T20:15:55.441Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ziyuaZ",
 		"@type": [
@@ -73,7 +74,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/ziyuaZ/LEAF.ZY/main/LEAF%20Files%20for%20Students/21ZZYN-Poictov.xml?place_annotation_20241105151555441#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/placeName"
+			"rdf:value": "TEI/text/body/div/head[2]/placeName"
 		}
 	},
 	"oa:hasBody": {
@@ -207,6 +208,7 @@
 	"id": "https://raw.githubusercontent.com/ziyuaZ/LEAF.ZY/main/LEAF%20Files%20for%20Students/21ZZYN-Poictov.xml?rs_annotation_20241107143530623",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-07T19:35:30.623Z",
+	"dcterms:modified": "2024-11-07T19:35:30.623Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ziyuaZ",
 		"@type": [
@@ -233,7 +235,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/ziyuaZ/LEAF.ZY/main/LEAF%20Files%20for%20Students/21ZZYN-Poictov.xml?rs_annotation_20241107143530623#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[2]/rs"
+			"rdf:value": "TEI/text/body/div/p/rs"
 		}
 	},
 	"oa:hasBody": {
@@ -311,7 +313,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/ziyuaZ/LEAF.ZY/main/LEAF%20Files%20for%20Students/21ZZYN-Poictov.xml?rs_annotation_20241107144842909#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[2]/rs[2]"
+			"rdf:value": "TEI/text/body/div/p/rs[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -523,6 +525,7 @@
 	"id": "https://raw.githubusercontent.com/ziyuaZ/LEAF.ZY/main/LEAF%20Files%20for%20Students/21ZZYN-Poictov.xml?rs_annotation_20241105155813585",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:58:13.585Z",
+	"dcterms:modified": "2024-11-05T20:58:13.585Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ziyuaZ",
 		"@type": [
@@ -549,7 +552,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/ziyuaZ/LEAF.ZY/main/LEAF%20Files%20for%20Students/21ZZYN-Poictov.xml?rs_annotation_20241105155813585#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[2]/rs[5]"
+			"rdf:value": "TEI/text/body/div/p/rs[5]"
 		}
 	},
 	"oa:hasBody": {
@@ -601,6 +604,7 @@
 	"id": "https://raw.githubusercontent.com/ziyuaZ/LEAF.ZY/main/LEAF%20Files%20for%20Students/21ZZYN-Poictov.xml?rs_annotation_20241105160014898",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T21:00:14.898Z",
+	"dcterms:modified": "2024-11-05T21:00:14.898Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ziyuaZ",
 		"@type": [
@@ -627,7 +631,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/ziyuaZ/LEAF.ZY/main/LEAF%20Files%20for%20Students/21ZZYN-Poictov.xml?rs_annotation_20241105160014898#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[2]/rs[6]"
+			"rdf:value": "TEI/text/body/div/p/rs[6]"
 		}
 	},
 	"oa:hasBody": {
@@ -680,7 +684,6 @@
 	"id": "https://raw.githubusercontent.com/ziyuaZ/LEAF.ZY/main/LEAF%20Files%20for%20Students/21ZZYN-Poictov.xml?rs_annotation_20241105160354385",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T21:03:54.385Z",
-	"dcterms:modified": "2024-11-05T21:03:54.385Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ziyuaZ",
 		"@type": [
@@ -707,12 +710,12 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/ziyuaZ/LEAF.ZY/main/LEAF%20Files%20for%20Students/21ZZYN-Poictov.xml?rs_annotation_20241105160354385#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[2]/rs[4]"
+			"rdf:value": "TEI/text/body/div/p/rs[4]"
 		}
 	},
 	"oa:hasBody": {
-		"@type": "Drink",
-		"@id": "https://www.oed.com/dictionary/wine_n1?tab=meaning_and_use#14588852",
+		"@type": "Object",
+		"@id": "https://www.oed.com/dictionary/furnish_v?tab=meaning_and_use#3322241",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -722,7 +725,7 @@
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
 	},
-	"cwrc:hasCertainty": "cwrc:medium"
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       
@@ -760,7 +763,6 @@
 	"id": "https://raw.githubusercontent.com/ziyuaZ/LEAF.ZY/main/LEAF%20Files%20for%20Students/21ZZYN-Poictov.xml?rs_annotation_20241105160438717",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T21:04:38.717Z",
-	"dcterms:modified": "2024-11-05T21:04:38.717Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ziyuaZ",
 		"@type": [
@@ -787,7 +789,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/ziyuaZ/LEAF.ZY/main/LEAF%20Files%20for%20Students/21ZZYN-Poictov.xml?rs_annotation_20241105160438717#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[2]/rs[3]"
+			"rdf:value": "TEI/text/body/div/p/rs[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -840,7 +842,6 @@
 	"id": "https://raw.githubusercontent.com/ziyuaZ/LEAF.ZY/main/LEAF%20Files%20for%20Students/21ZZYN-Poictov.xml?rs_annotation_20241105160833173",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T21:08:33.173Z",
-	"dcterms:modified": "2024-11-05T21:08:33.173Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ziyuaZ",
 		"@type": [
@@ -867,7 +868,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/ziyuaZ/LEAF.ZY/main/LEAF%20Files%20for%20Students/21ZZYN-Poictov.xml?rs_annotation_20241105160833173#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[2]/rs[7]"
+			"rdf:value": "TEI/text/body/div/p/rs[7]"
 		}
 	},
 	"oa:hasBody": {
@@ -920,7 +921,6 @@
 	"id": "https://raw.githubusercontent.com/ziyuaZ/LEAF.ZY/main/LEAF%20Files%20for%20Students/21ZZYN-Poictov.xml?rs_annotation_20241105161400960",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T21:14:00.960Z",
-	"dcterms:modified": "2024-11-05T21:14:00.960Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ziyuaZ",
 		"@type": [
@@ -947,7 +947,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/ziyuaZ/LEAF.ZY/main/LEAF%20Files%20for%20Students/21ZZYN-Poictov.xml?rs_annotation_20241105161400960#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[2]/rs[8]"
+			"rdf:value": "TEI/text/body/div/p/rs[8]"
 		}
 	},
 	"oa:hasBody": {
@@ -1000,7 +1000,6 @@
 	"id": "https://raw.githubusercontent.com/ziyuaZ/LEAF.ZY/main/LEAF%20Files%20for%20Students/21ZZYN-Poictov.xml?place_annotation_20241107123600002",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-07T17:36:00.002Z",
-	"dcterms:modified": "2024-11-07T17:36:00.002Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ziyuaZ",
 		"@type": [
@@ -1027,7 +1026,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/ziyuaZ/LEAF.ZY/main/LEAF%20Files%20for%20Students/21ZZYN-Poictov.xml?place_annotation_20241107123600002#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[3]/placeName"
+			"rdf:value": "TEI/text/body/div/p[2]/placeName"
 		}
 	},
 	"oa:hasBody": {
@@ -1081,7 +1080,6 @@
 	"id": "https://raw.githubusercontent.com/ziyuaZ/LEAF.ZY/main/LEAF%20Files%20for%20Students/21ZZYN-Poictov.xml?note_annotation_20241107124958540",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-07T17:49:58.540Z",
-	"dcterms:modified": "2024-11-07T17:49:58.540Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ziyuaZ",
 		"@type": [
@@ -1108,13 +1106,13 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/ziyuaZ/LEAF.ZY/main/LEAF%20Files%20for%20Students/21ZZYN-Poictov.xml?note_annotation_20241107124958540#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[3]/note"
+			"rdf:value": "TEI/text/body/div/p[2]/note"
 		}
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NoteInternal",
 		"dc:format": "text/plain",
-		"rdf:value": "Old English Spelling of \"Antique\".\n\nOED dictionary: https://www.oed.com/dictionary/antique_adj?tab=meaning_and_use#1540614"
+		"rdf:value": "Old English Spelling of \"Antique\". Poitou has many ancient architectural relics. "
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -1345,7 +1343,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/ziyuaZ/LEAF.ZY/main/LEAF%20Files%20for%20Students/21ZZYN-Poictov.xml?rs_annotation_20241107150152352#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[3]/rs"
+			"rdf:value": "TEI/text/body/div/p[2]/rs"
 		}
 	},
 	"oa:hasBody": {
@@ -1425,7 +1423,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/ziyuaZ/LEAF.ZY/main/LEAF%20Files%20for%20Students/21ZZYN-Poictov.xml?rs_annotation_20241107150244767#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[3]/rs[2]"
+			"rdf:value": "TEI/text/body/div/p[2]/rs[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -1505,7 +1503,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/ziyuaZ/LEAF.ZY/main/LEAF%20Files%20for%20Students/21ZZYN-Poictov.xml?rs_annotation_20241107150615949#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[3]/rs[3]"
+			"rdf:value": "TEI/text/body/div/p[2]/rs[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -1603,20 +1601,94 @@
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/ziyuaZ/LEAF.ZY/main/LEAF%20Files%20for%20Students/21ZZYN-Poictov.xml?title_annotation_20241107154610471",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-11-07T20:46:10.471Z",
+	"dcterms:modified": "2024-11-07T20:46:10.471Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ziyuaZ",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Ziyuan Zhang"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ziyuaZ/LEAF.ZY/main/LEAF%20Files%20for%20Students/21ZZYN-Poictov.xml?title_annotation_20241107154610471#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ziyuaZ/LEAF.ZY/main/LEAF%20Files%20for%20Students/21ZZYN-Poictov.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ziyuaZ/LEAF.ZY/main/LEAF%20Files%20for%20Students/21ZZYN-Poictov.xml?title_annotation_20241107154610471#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/head/title"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "bf:Title",
+		"@id": "http://dbpedia.org/resource/Poitou",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
 	<text>
 		<body>
 			<pb facs="Poictov"/>
 			<div>
-				<head>                                                P O I C T O V .<title key="Poitou" ref="http://dbpedia.org/resource/Poitou" cert="high" level="s"/></head>
-				<p>THis prouince of <placeName key="Poitou" ref="http://www.wikidata.org/entity/Q954076" cert="high">Poitou<precision match="@ref" precision="high"/></placeName>, called in Latin <lang cert="high" xml:lang="Latin" xml:space="default"><lang cert="high" xml:space="default"><lang cert="high" xml:lang="Latin" xml:space="default"><lang cert="high" xml:lang="Latin" xml:space="default"><lang cert="high" xml:lang="Latin" xml:space="default"><lang cert="high" xml:lang="Latin" xml:space="default">Piclanis</lang></lang></lang></lang></lang></lang> is detryded into two 
-partes, to wit the Superior &amp; Inferior. The vpper Poitou<note type="researchNote">Upper Poitou is now split into the departments of Deux-Sevres and Vienne. The principal towns in Upper Poitou were Poitiers the capital, Mirebeau, Chatellerault, Richelieu, Loudun, Thouars, Mauleon, Parthenay, Niort, &amp;c.
-
-Resource: https://theodora.com/encyclopedia/p2/poitou.html</note> is that which 
-ſtretcheth eaſt-ward towards the countries of Towrs &amp; Berry, the nether Poitou<note type="researchNote">Lower Poitou corresponded to the modern department of La Vendee. 
-The principal towns in Lower Poitou Fontenay-le-Comte, Maillezais, Lugon and Roche-sur-Yon.
-
-Resource: https://theodora.com/encyclopedia/p2/poitou.html</note> is that parte which weſtward extendeth it ſelf to the Ocean ſea.</p><p>      It is a country frutefull in <rs key="Corne" ref="https://www.oed.com/dictionary/corn_n1?tab=meaning_and_use#8159660" type="Plant">Corne</rs> &amp; <rs key="cattle" ref="http://www.wikidata.org/entity/Q830" cert="high" type="Animal">Cattle</rs> rich in <rs key="wynes" ref="https://www.oed.com/dictionary/wine_n1?tab=meaning_and_use#14588852" cert="medium" type="Drink">wynes</rs> &amp; <rs key="furniſhed" ref="https://www.oed.com/dictionary/furnish_v?tab=meaning_and_use#3322241" cert="high" type="Object">furniſhed</rs> with 
+				<head>                                                <title key="P O I C T O V ." ref="http://dbpedia.org/resource/Poitou" cert="high" level="s">P O I C T O V .</title></head><head>THis prouince of <placeName key="Poitou" ref="http://www.wikidata.org/entity/Q954076" cert="high">Poitou<precision match="@ref" precision="high"/></placeName>, called in Latin <lang cert="high" xml:lang="Latin" xml:space="default"><lang cert="high" xml:space="default"><lang cert="high" xml:lang="Latin" xml:space="default"><lang cert="high" xml:lang="Latin" xml:space="default"><lang cert="high" xml:lang="Latin" xml:space="default"><lang cert="high" xml:lang="Latin" xml:space="default">Piclanis</lang></lang></lang></lang></lang></lang> is detryded into two 
+partes, to wit the Superior &amp; Inferior. The vpper Poitou is that which 
+ſtretcheth eaſt-ward towards the countries of Towrs &amp; Berry, the nether Poitou is that parte which weſtward extendeth it ſelf to the Ocean ſea.</head><p>      It is a country frutefull in <rs key="Corne" ref="https://www.oed.com/dictionary/corn_n1?tab=meaning_and_use#8159660" type="Plant">Corne</rs> &amp; <rs key="cattle" ref="http://www.wikidata.org/entity/Q830" cert="high" type="Animal">Cattle</rs> rich in <rs key="wynes" ref="https://www.oed.com/dictionary/wine_n1?tab=meaning_and_use#14588852" cert="medium" type="Drink">wynes</rs> &amp; <rs key="furniſhed" ref="https://www.oed.com/dictionary/furnish_v?tab=meaning_and_use#3322241" cert="high" type="Object">furniſhed</rs> with 
 great <rs key="ſtore" ref="https://www.oed.com/dictionary/store_v?tab=meaning_and_use#20436991" type="Object">ſtore</rs> of <rs key="fish" ref="http://www.wikidata.org/entity/Q152" cert="high" type="Animal">fiſh</rs>, And the great aboundance of <rs key="wyld beaſtes" ref="https://www.oed.com/dictionary/wild-beast_n?tab=meaning_and_use#14478516100" cert="high" type="Animal">wyld beaſtes</rs> &amp; <rs key="fowle" ref="https://www.oed.com/dictionary/fowl_n?tab=meaning_and_use#3614500" cert="medium" type="Animal">fowle</rs>, 
 doth cauſe the delightfull fportes of hunting &amp; hauking to bee here much 
 vſed.</p><p>The chief citie of this prouince is called <placeName key="Poitiers" ref="http://dbpedia.org/resource/Poitiers" cert="high">Poititrt<precision match="@ref" precision="high"/></placeName>, having a notable vni-
