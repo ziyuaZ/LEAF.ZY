@@ -282,10 +282,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ziyuaZ/LEAF.ZY/main/LEAF%20Files%20for%20Students/21ZZYN-Poictov.xml?rs_annotation_20241105160123810",
+	"id": "https://raw.githubusercontent.com/ziyuaZ/LEAF.ZY/main/LEAF%20Files%20for%20Students/21ZZYN-Poictov.xml?rs_annotation_20241107144842909",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-11-05T21:01:23.810Z",
-	"dcterms:modified": "2024-11-07T19:48:42.909Z",
+	"dcterms:created": "2024-11-07T19:48:42.909Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ziyuaZ",
 		"@type": [
@@ -296,7 +295,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ziyuaZ/LEAF.ZY/main/LEAF%20Files%20for%20Students/21ZZYN-Poictov.xml?rs_annotation_20241105160123810#Target",
+		"@id": "https://raw.githubusercontent.com/ziyuaZ/LEAF.ZY/main/LEAF%20Files%20for%20Students/21ZZYN-Poictov.xml?rs_annotation_20241107144842909#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/ziyuaZ/LEAF.ZY/main/LEAF%20Files%20for%20Students/21ZZYN-Poictov.xml",
@@ -310,7 +309,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ziyuaZ/LEAF.ZY/main/LEAF%20Files%20for%20Students/21ZZYN-Poictov.xml?rs_annotation_20241105160123810#Selector",
+			"@id": "https://raw.githubusercontent.com/ziyuaZ/LEAF.ZY/main/LEAF%20Files%20for%20Students/21ZZYN-Poictov.xml?rs_annotation_20241107144842909#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[2]/rs[2]"
 		}
@@ -1290,7 +1289,7 @@
 			<pb facs="Poictov"/>
 			<div>
 				<head>P O I C T O V .</head>
-				<p>THis prouince of <placeName key="Poitou" ref="http://www.wikidata.org/entity/Q954076" cert="high">Poitou<precision match="@ref" precision="high"/></placeName>, called in Latin <lang cert="high" xml:lang="Latin" xml:space="default"><lang cert="high" xml:space="default">Piclanis</lang></lang> is detryded into two 
+				<p>THis prouince of <placeName key="Poitou" ref="http://www.wikidata.org/entity/Q954076" cert="high">Poitou<precision match="@ref" precision="high"/></placeName>, called in Latin <lang cert="high" xml:lang="Latin" xml:space="default"><lang cert="high" xml:space="default"><lang cert="high" xml:lang="Latin" xml:space="default">Piclanis</lang></lang></lang> is detryded into two 
 partes, to wit the [Superior] &amp; [Inferior]. The vpper Poitou<note type="researchNote">Upper Poitou is now split into the departments of Deux-Sevres and Vienne. The principal towns in Upper Poitou were Poitiers the capital, Mirebeau, Chatellerault, Richelieu, Loudun, Thouars, Mauleon, Parthenay, Niort, &amp;c.
 
 Resource: https://theodora.com/encyclopedia/p2/poitou.html</note> is that which 
